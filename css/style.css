@@ -1,0 +1,60 @@
+h1, h2{
+    font-family: 'Helvetica';
+    padding-top: 1em;
+}
+
+h3{
+    font-family: 'Helvetica';
+    padding-top:40px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+body{
+    font-family: 'Helvetica';
+    /* background-color: #271300; */
+}
+
+
+.description{
+    font-size:1.3rem;
+    text-align: left;
+    flex-shrink: 2;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.description-prototype-hifi{
+    padding-top: 5rem;
+}
+
+p{
+    flex-shrink: 2;
+}
+
+
+.content{
+    padding-left:3em;
+    padding-right:3em;
+}
+
+img{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: none;
+}
+
+.section-title{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.section{
+    margin-top:60px;
+    margin-bottom: 150px;
+}
+
+ul{
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
